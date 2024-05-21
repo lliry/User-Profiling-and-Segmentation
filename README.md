@@ -1,2 +1,8 @@
 # User-Profiling-and-Segmentation
 Profilage des utilisateurs
+
+Le profilage des utilisateurs est le processus de création d'une description détaillée d'une personne en fonction de ses informations personnelles, de ses caractéristiques, de ses intérêts, de son comportement en ligne et d'autres attributs pertinents.
+
+L'ensemble de données donné comprend un ensemble diversifié de métriques d'utilisateurs collectées à partir d'une plateforme en ligne, composée de 1 000 profils d'utilisateurs avec 16 attributs distincts. Ces fonctionnalités incluent les données démographiques (âge, sexe, niveau de revenu et éducation), le comportement en ligne (likes et réactions, comptes suivis, utilisation de l'appareil), l'engagement avec le contenu (temps passé en ligne en semaine et le week-end, taux de clics, taux de conversion). , l'interaction avec les annonces (durée d'interaction avec l'annonce) et les centres d'intérêt des utilisateurs.
+
+la mission consiste à développer un système robuste de profilage et de segmentation des utilisateurs qui exploite les techniques d'apprentissage automatique et d'analyse des données pour catégoriser les utilisateurs en segments distincts. En analysant les données d'interaction des utilisateurs, les informations démographiques et les mesures d'engagement, l'identification des modèles et des clusters significatifs au sein de la base d'utilisateurs. L'objectif ultime est de permettre aux entreprises d'adapter leurs campagnes publicitaires aux segments identifiés, augmentant ainsi la pertinence des publicités, l'engagement des utilisateurs et les taux de conversion tout en optimisant les dépenses publicitaires.
